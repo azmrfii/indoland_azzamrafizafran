@@ -8,4 +8,4 @@ function pattern2(rows) {
     }
 }
 
-pattern2(5);
+pattern2(1);

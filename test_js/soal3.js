@@ -14,4 +14,4 @@ function pattern3(rows) {
   }
 }
 
-pattern3(5);
+pattern3(1);

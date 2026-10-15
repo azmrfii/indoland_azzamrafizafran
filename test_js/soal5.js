@@ -13,9 +13,9 @@ function pattern5(rows) {
                 row += " ";
             }
         }
-        
+
         console.log(row);
     }
 }
 
-pattern5(5);
+pattern5(1);
